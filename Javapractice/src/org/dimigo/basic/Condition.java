@@ -7,9 +7,7 @@ public class Condition {
 		String carname = "고속버스";
 		int cartype, sum = 0;
 		int dis = 25;
-		
-		
-		System.out.println("<<고속도로 통행료 계산>>");
+	
 		
 		switch (carname){
 		case "고속버스":
@@ -34,9 +32,12 @@ public class Condition {
 			sum +=(cartype *(dis/10));
 			
 		}
+		System.out.println("<<고속도로 통행료 계산>>");
 		
 		System.out.println("거리 :" + dis + "km");
+		
 		System.out.println("차종 : " + carname);
+		
 		System.out.println("통행료:" + sum +"원");
 	}
 
