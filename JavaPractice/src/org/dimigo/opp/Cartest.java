@@ -39,7 +39,7 @@ public class Cartest {
 		kia.setColor("검은색");
 		kia.setMaxSpeed(246);
 		kia.setPrice(40000000);
-//ㅑㅑ
+
 		//삼성
 		
 		Samsung.setCompany("삼성자동차");
