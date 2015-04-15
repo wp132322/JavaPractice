@@ -6,7 +6,7 @@ package org.dimigo.oop;
 /**
  * <pre>
  *org.dimigo.oop
- *	|_ Cartest 
+ *	|_ Cartest   
  * 
  *1. 개요:  
  *2. 작성일 : 2015. 4. 14.
@@ -28,7 +28,7 @@ public class Cartest {
 		
 		//현대
 //		
-//		hyundai.setCompany("현대자동차");
+//		hyundai.setCompany("현대자동차");;
 //		hyundai.setModel("제네시스");
 //		hyundai.setColor("검은색");
 //		hyundai.setMaxSpeed(225);

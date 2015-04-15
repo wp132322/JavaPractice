@@ -5,9 +5,9 @@ package org.dimigo.oop;
 
 /**
  * <pre>
- *org.dimigo.opp  
+ *org.dimigo.oop  
  *	|_ Car 
- *
+ * 
  *1. 개요:
  *2. 작성일 : 2015. 4. 14.
  * </pre>
