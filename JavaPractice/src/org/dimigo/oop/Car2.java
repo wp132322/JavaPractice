@@ -26,7 +26,7 @@ public class Car2 {
 	private int price;//private
 	
 	public Car2(){
-	}
+	}  
 	public Car2(String newCompany, String newModel, String setColor, int Maxspeed, int newPrice){
 		company = newCompany;
 		model = newModel;
