@@ -15,7 +15,7 @@ package org.dimigo.oop;
  * @version	: 1.0
  */
 public class Car2 {
-	private String company;//private
+	private String company;//private  
 	
 	private String model;//private
 	
