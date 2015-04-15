@@ -32,7 +32,7 @@ public class Car2 {
 		model = newModel;
 		color = setColor;
 		maxSpeed = Maxspeed;
-		price = newPrice;
+		price = newPrice; 
 	}
 	public String getCompany() {//public
 		return company;
