@@ -49,7 +49,7 @@ public class Question {
 		 		if("자바".equals(answer)) { 
 		 			System.out.println("정답입니다!! ^^"); 
 		 			System.out.println(); 
-		 		} else { 
+		 		} else {  
 		 			System.out.println("틀렸습니다!! ㅠㅠ"); 
 		 			System.out.println(); 
 
