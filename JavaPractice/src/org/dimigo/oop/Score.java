@@ -20,6 +20,7 @@ public class Score {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
 		System.out.println(" 국어 점수 입력 => ");
 		int kor = scanner.nextInt();
