@@ -15,7 +15,7 @@ package org.dimigo.oop;
  * @version	: 1.0
  */
  public class Snack { 
- 	private String name; 
+ 	private String name;  
  	private String company; 
  	private int price; 
  	private int number; 
