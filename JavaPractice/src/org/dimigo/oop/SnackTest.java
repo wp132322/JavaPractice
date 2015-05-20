@@ -28,7 +28,7 @@ public class SnackTest {
 		};
 		int total = 0;
 		
-		for(Snack s : snack) {
+		for(Snack s : snack) { 
 			s.printSnack();
 			total += s.calcPrice();
 		}
