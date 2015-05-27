@@ -20,10 +20,10 @@ public class IdolGroup {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		String [] idolGroup = {"EXID", "다비치", "걸스데이"};
+		String [] idolGroup = {"EXID", "다비치", "2-3반"};
 		String[] [] members = {{"Le", "정화", "하니","솔지", "혜린"},
 			{"이해리", "강민경"},
-			{"유라", "소진", "민아", "혜리", "그외"}};
+			{"강지훈", "고인혜", "김경연", "김동현", "김문섭","김병준","김수정","그외.."}};
 		for(int i = 0; i<idolGroup.length; i++){
 			
 			System.out.println("<<" + idolGroup[i] + "멤버 >>");
