@@ -30,14 +30,12 @@ public class PiggyBankTest {
 		 	PiggyBank.putMoney(me, 2000);  
 		 	PiggyBank.putMoney(sister, 1000);  
 		 	PiggyBank.putMoney(dog, 1000);  
-		 	
-		 	PiggyBank.printBalance();
 		 	PiggyBank.putMoney(father, 10000);
 		 	PiggyBank.putMoney(dog, 100000);
 		 	PiggyBank.putMoney(me, 10000000);
 		 	PiggyBank.putMoney(sister, 1000);
 		 	PiggyBank.putMoney(mom, 10000);
-		
+		 	PiggyBank.printBalance();
 		
 	}
 
