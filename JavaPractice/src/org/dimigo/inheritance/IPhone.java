@@ -16,7 +16,7 @@ package org.dimigo.inheritance;
  */
 public class IPhone extends SmartPhone{
 	IPhone()
-{
+{ 
 		
 }
 	IPhone(String model, String company, int price)

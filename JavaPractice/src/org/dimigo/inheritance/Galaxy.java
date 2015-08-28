@@ -5,7 +5,7 @@ package org.dimigo.inheritance;
 
 /**
  * <pre>
- *org.dimigo.inheritance
+ *org.dimigo.inheritance 
  *	|_ Galaxy 
  *
  *1. 개요:

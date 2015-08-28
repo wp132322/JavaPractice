@@ -4,7 +4,7 @@
 package org.dimigo.inheritance;
 
 /**
- * <pre>
+ * <pre> 
  *org.dimigo.inheritance
  *	|_ SmartPhone 
  *
