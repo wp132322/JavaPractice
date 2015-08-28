@@ -5,9 +5,9 @@ package org.dimigo.inheritance;
 
 /**
  * <pre>
- *org.dimigo.inheritance 
+ *org.dimigo.inheritance   
  *	|_ Galaxy 
- *
+ *  
  *1. 개요:
  *2. 작성일 : 2015. 8. 28.
  * </pre>
@@ -19,7 +19,7 @@ public class Galaxy extends SmartPhone{
 	{
 		
 	}
-	
+	     
 	Galaxy(String model, String company, int price)
 	{
 		super(model, company, price);

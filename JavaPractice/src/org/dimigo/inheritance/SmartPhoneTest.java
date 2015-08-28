@@ -17,7 +17,7 @@ package org.dimigo.inheritance;
 public class SmartPhoneTest {
 
 	/**
-	 * @param args 
+	 * @param args  
 	 */
 	public static void main(String[] args) {
 		SmartPhone iphone = new IPhone("iPhone6", "애플", 700000);
